@@ -11,7 +11,7 @@ NOTE: This template has been provided by GitHub.
 - 💬 Ask me about anything.
 - 📫 How to reach me:<br/>
 • Skqwiggl#0001; Discord - Status: (Active)<br/>
-• tasomavromatidis; Instagram, https://www.instagram.com/tasomavromatidis/ - Status: (Dormant)
+• tasomavromatidis; Instagram, <img src='https://www.instagram.com/tasomavromatidis/'> - Status: (Dormant)
 - 😄 Gender: Male
 - 🎩 Pronouns: He/Him, Male/Masculine
 - 🎂 Age: 15
