@@ -1,8 +1,8 @@
 ### Hello, Taso here. 👋
 
-Autobiography: 
+Autobiography: A little bit about myself.
 
-A little bit about myself:
+NOTE: This template has been provided by GitHub.
 
 - 🔭 I’m currently working on Homework/School Work, a Disc.py Bot, and additional projects concomitantly.
 - 🌱 I’m currently learning Py.
