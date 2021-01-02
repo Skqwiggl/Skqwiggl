@@ -9,7 +9,7 @@ A little bit about myself...
 - 👯 I’m looking to collaborate my Disc Bot, although I can do it myself, I'm happy for anyone to join, you're welcome; Although I am relatively new to Disc.py and py itself I'm still making progress. As said anyone can join, I'm happy, but I'm working at a slow rate as I've been procrastinating lately. 😩
 - 🤔 I’m looking for help with learning py and various other programming languages such as HTML, JS.
 - 💬 Ask me about anything really.
-- 📫 How to reach me: 
+- 📫 How to reach me: -
   • Skqwiggl#0001; Discord - Status: (Active)
   • tasomavromatidis; Instagram, https://www.instagram.com/tasomavromatidis/ - Status: (Dormant)
 - 😄 Gender: Male
