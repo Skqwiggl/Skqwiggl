@@ -10,7 +10,7 @@ A little bit about myself:
 - 🤔 I’m looking for help with learning py and various other programming languages such as HTML, JS.
 - 💬 Ask me about anything.
 - 📫 How to reach me:<br/>
-• Skqwiggl#0001; Discord - Status: (Active)
+• Skqwiggl#0001; Discord - Status: (Active)<br/>
 • tasomavromatidis; Instagram, https://www.instagram.com/tasomavromatidis/ - Status: (Dormant)
 - 😄 Gender: Male
 - 🎩 Pronouns: He/Him, Male/Masculine
