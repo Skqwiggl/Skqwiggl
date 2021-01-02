@@ -1,8 +1,5 @@
 ### Hello, Taso here. 👋
 
-<!--
-**Skqwiggl/Skqwiggl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Autobiography: 
 
 A little bit about myself...
@@ -19,4 +16,3 @@ A little bit about myself...
 - 🎩 Pronouns: He/Him, Male/Masculine
 - 🎂 Age: 15
 - ⚡ Fun fact: I'm from 3 continents
--->
