@@ -20,5 +20,3 @@ A little bit about myself...
 - 🎂 Age: 15
 - ⚡ Fun fact: I'm from 3 continents
 -->
-
-(Template Provided by GitHub)
