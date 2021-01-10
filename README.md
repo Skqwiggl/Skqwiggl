@@ -4,7 +4,6 @@ Autobiography: A little bit about myself.
 
 NOTE: This template has been provided by GitHub.
 
-Student learning how to comp sci and program, still a beginner; Been working on a Disc.py Bot, and a few other projects. Still in development.
 
 GitHub: 
 
